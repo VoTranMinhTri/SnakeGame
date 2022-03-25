@@ -1,0 +1,11 @@
+﻿  console.cpp
+G:\console.cpp(99,42): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+  Snake.cpp
+G:\Visual Studio 2013\Projects\Doanran1\Doanran1\Snake.cpp(780,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\Visual Studio 2013\Projects\Doanran1\Doanran1\Snake.cpp(794,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\Visual Studio 2013\Projects\Doanran1\Doanran1\Snake.cpp(1294,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\Visual Studio 2013\Projects\Doanran1\Doanran1\Snake.cpp(1308,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\Visual Studio 2013\Projects\Doanran1\Doanran1\Snake.cpp(1322,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\Visual Studio 2013\Projects\Doanran1\Doanran1\Snake.cpp(1366,6): warning C4101: 'key': unreferenced local variable
+  Generating Code...
+  Doanran1.vcxproj -> G:\Visual Studio 2013\Projects\Doanran1\Debug\Doanran1.exe
